@@ -42,4 +42,4 @@ The project was developed in R, primarily using:
 
 ## Output
 
-The final output is an interactive R Markdown data story combining the quantitative analysis with visualizations, maps, and journalistic article translated to English since it was originally made in German.
+The final output is an interactive R Markdown data story combining the quantitative analysis with visualizations, maps, and the journalistic article translated to English since it was originally made in German. I apologize for the mix of German and English used. I just now translated everything to English for Github while I made the project quite some time ago :)
